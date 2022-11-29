@@ -1,2 +1,2 @@
 # python
-python
+Algorithm Practice with Python
