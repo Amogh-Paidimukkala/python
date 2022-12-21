@@ -1,0 +1,7 @@
+a="HELLO WORLD! THIS IS A PROGRAM TO COUNT THE SPACES";
+count = 0;
+i=0;
+for i in range(0,len(a)):
+    if a[i] == " ":
+        count+=1;
+print(count);
